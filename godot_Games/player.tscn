@@ -4,7 +4,7 @@
 [ext_resource path="res://icon.png" type="Texture" id=2]
 
 [sub_resource type="RectangleShape2D" id=1]
-extents = Vector2( 30.8191, 31.5726 )
+extents = Vector2( 30.2684, 30.8468 )
 
 [node name="player" type="KinematicBody2D"]
 position = Vector2( 386.801, 246.136 )
